@@ -1,0 +1,18 @@
+div {
+    width: 30%;
+    background-image: linear-gradient(to right, rgb(215, 216, 220), white);
+    padding: 5px;
+  }
+  table {
+    width: 25vw;
+  }
+  table,
+  th,
+  td {
+    border: solid 1px;
+    background-color: white;
+  }
+  th,
+  td {
+    padding: 5px;
+  }
